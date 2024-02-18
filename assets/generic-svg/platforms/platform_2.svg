@@ -1,0 +1,13 @@
+<svg width="190" height="64" viewBox="0 0 190 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="190" height="29" rx="8" fill="#0FFFFF"/>
+<path d="M15 29H175V56C175 60.4183 171.418 64 167 64H23C18.5817 64 15 60.4183 15 56V29Z" fill="#2240F1"/>
+<path d="M115 29H125V38C125 40.7614 122.761 43 120 43V43C117.239 43 115 40.7614 115 38V29Z" fill="#2133E1"/>
+<path d="M128 29H138V38C138 40.7614 135.761 43 133 43V43C130.239 43 128 40.7614 128 38V29Z" fill="#2133E1"/>
+<path d="M141 29H151V38C151 40.7614 148.761 43 146 43V43C143.239 43 141 40.7614 141 38V29Z" fill="#2133E1"/>
+<ellipse cx="2.5" cy="2.5" rx="2.5" ry="2.5" transform="matrix(-1 -1.74846e-07 -1.74846e-07 1 168 3)" fill="#00C9FF"/>
+<ellipse cx="2.5" cy="2.5" rx="2.5" ry="2.5" transform="matrix(-1 -1.74846e-07 -1.74846e-07 1 168 21)" fill="#00C9FF"/>
+<ellipse cx="2.5" cy="2.5" rx="2.5" ry="2.5" transform="matrix(1 8.74228e-08 8.74228e-08 -1 20 8)" fill="#00C9FF"/>
+<ellipse cx="2.5" cy="2.5" rx="2.5" ry="2.5" transform="matrix(1 8.74228e-08 8.74228e-08 -1 20 26)" fill="#00C9FF"/>
+<path d="M32 29L32 9.53674e-07" stroke="#00C9FF" stroke-width="4"/>
+<path d="M156 0L156 29" stroke="#00C9FF" stroke-width="4"/>
+</svg>
