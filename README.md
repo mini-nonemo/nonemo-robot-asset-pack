@@ -6,7 +6,7 @@ It's all about futuristic vibes, rebellious robots, and gritty urban landscapes.
 
 # License
 
-[CC0 - Public Domain - Attribution appreciated](assets/license.md)
+[CC0 - Public Domain - Attribution appreciated](assets/LICENSE.md)
 
 **Authored by [nonemo](https://nonemo.itch.io/)**
 

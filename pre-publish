@@ -6,7 +6,7 @@ cp -rp assets/* .tmp
 
 for dir in .tmp/*/     # list directories in the form "/tmp/dirname/"
 do
-    cp .tmp/license.md $dir
+    cp .tmp/LICENSE.md $dir
     dir=${dir%*/}      # remove the trailing "/"
     name="${dir##*/}"
 
@@ -15,6 +15,6 @@ do
     rm -rf $dir
 done
 
-rm .tmp/license.md
+rm .tmp/LICENSE.md
 rm -rf build || continue
 mv .tmp build
