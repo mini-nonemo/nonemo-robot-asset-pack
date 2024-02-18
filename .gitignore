@@ -86,3 +86,7 @@ GRTAGS
 GSYMS
 GTAGS
 TAGS
+
+# custom
+.tmp
+build

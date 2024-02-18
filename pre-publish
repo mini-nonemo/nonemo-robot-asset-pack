@@ -1,0 +1,20 @@
+#!/bin/bash
+
+rm -rf .tmp || continue
+mkdir .tmp
+cp -rp assets/* .tmp
+
+for dir in .tmp/*/     # list directories in the form "/tmp/dirname/"
+do
+    cp .tmp/license.md $dir
+    dir=${dir%*/}      # remove the trailing "/"
+    name="${dir##*/}"
+
+    pwd=$PWD
+    (cd $dir ; zip -r $pwd/.tmp/$name.zip .)
+    rm -rf $dir
+done
+
+rm .tmp/license.md
+rm -rf build || continue
+mv .tmp build
